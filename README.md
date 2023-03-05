@@ -1,6 +1,4 @@
-# party_bomb
-
-Party Bomb
+# Party Bomb
 
 ## Introduction
 
