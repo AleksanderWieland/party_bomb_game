@@ -1,16 +1,14 @@
 # party_bomb
 
-Word party game
+Party Bomb
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+Bomb is a party word game that involves saying words that contain a particle displayed on the device's screen.
 
-A few resources to get you started if this is your first Flutter project:
+There are currently 4 languages to choose from. The particles were found thanks to a Python script I created. I searched for collections of the most popular words in the languages in question, and the script divided them into parts having 2, 3 or 4 letters. The script recorded how many times the particle was at the beginning, middle or end of the word. I added the most popular particles to the application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The game was created in Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The game was published on Google Play, but you can also play it in your browser!
+
