@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278778739131",
+    "project_id": "boom-party-game",
+    "storage_bucket": "boom-party-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278778739131:android:54949c8404f43818f5ac9e",
+        "android_client_info": {
+          "package_name": "wieland.app.party_bomb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278778739131-cga3c70dbk2d79ldbh1i2e4u3eg535ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL0m62LPNWPz9xMX6BbYUMiPj4tnD-gOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278778739131-cga3c70dbk2d79ldbh1i2e4u3eg535ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
