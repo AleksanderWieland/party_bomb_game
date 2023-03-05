@@ -8,3 +8,6 @@ The game was created in Flutter.
 
 The game was published on Google Play, but you can also play it in your browser!
 
+Android: https://play.google.com/store/apps/details?id=wieland.app.party_bomb&hl=pl&gl=US
+Web: https://boom-party-game.web.app/#/
+
