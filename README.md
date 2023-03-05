@@ -13,4 +13,8 @@ Web: https://boom-party-game.web.app/#/
 
 
 
-![alt text](https://play-lh.googleusercontent.com/HkbMQXWw56VyHPStqFAdli21okaJ7adhUiTuNm2agtH2qPlaYxnoG-0e9ZKTYBEgMYk=w5120-h2880-rw)
+![alt text]()
+
+
+
+<img src="https://play-lh.googleusercontent.com/HkbMQXWw56VyHPStqFAdli21okaJ7adhUiTuNm2agtH2qPlaYxnoG-0e9ZKTYBEgMYk=w5120-h2880-rw" width=50% height=50%>
